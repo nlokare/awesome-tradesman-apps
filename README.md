@@ -127,6 +127,7 @@ Guides and articles for running a better trade business.
 - **[Best Quoting Apps for Tradesmen 2026](https://cybercryptone.github.io/tradesman-hub/best-quoting-apps-tradesmen-2026.html)** — Honest comparison of the top quoting and invoicing apps for tradespeople.
 - **Federation of Master Builders (FMB)** — Industry association with guides on contracts, pricing, and running a trade business.
 - **HMRC Self Assessment Guides** — Official HMRC guidance on tax returns, VAT registration, and Making Tax Digital.
+- **[HVAC School Guide — Cost vs Metro Pay](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay)** — Free BLS-sourced months-to-recoup table comparing typical HVAC training cost to metro technician pay.
 
 ---
 
