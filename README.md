@@ -126,6 +126,7 @@ Guides and articles for running a better trade business.
 - **[UK Tradesman Hourly Rate Guide 2026](https://cybercryptone.github.io/tradesman-hub/uk-tradesman-hourly-rate-guide.html)** — Up-to-date rate tables for all major UK trades, by region and experience level.
 - **[Best Quoting Apps for Tradesmen 2026](https://cybercryptone.github.io/tradesman-hub/best-quoting-apps-tradesmen-2026.html)** — Honest comparison of the top quoting and invoicing apps for tradespeople.
 - **Federation of Master Builders (FMB)** — Industry association with guides on contracts, pricing, and running a trade business.
+- **[HVAC School Guide — Cost vs Metro Pay (2026)](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay)** — Free US months-to-recoup table comparing HVAC training cost to metro pay (BLS OEWS). Useful when deciding whether HVAC quals pencil out.
 - **HMRC Self Assessment Guides** — Official HMRC guidance on tax returns, VAT registration, and Making Tax Digital.
 
 ---
