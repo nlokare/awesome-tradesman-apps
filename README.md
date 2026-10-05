@@ -125,7 +125,7 @@ Guides and articles for running a better trade business.
 - **[How to Quote a Job as a Tradesman](https://cybercryptone.github.io/tradesman-hub/how-to-quote-a-job-tradesman.html)** — Step-by-step guide covering what to include, how to price materials, VAT, and sending quotes that win work.
 - **[UK Tradesman Hourly Rate Guide 2026](https://cybercryptone.github.io/tradesman-hub/uk-tradesman-hourly-rate-guide.html)** — Up-to-date rate tables for all major UK trades, by region and experience level.
 - **[Best Quoting Apps for Tradesmen 2026](https://cybercryptone.github.io/tradesman-hub/best-quoting-apps-tradesmen-2026.html)** — Honest comparison of the top quoting and invoicing apps for tradespeople.
-- **[FieldServiceScout](https://www.fieldservicescout.com/)** — Independent, vendor-neutral comparison of field service software for trade shops (Jobber, Housecall Pro, ServiceTitan peers). Not affiliated with FieldScout/fieldscout.io.
+- **[FieldServiceScout](https://www.fieldservicescout.com/best/hvac-software)** — Independent, vendor-neutral best HVAC / trade-shop field service software guide (Jobber, Housecall Pro, ServiceTitan peers). Not affiliated with FieldScout/fieldscout.io.
 - **Federation of Master Builders (FMB)** — Industry association with guides on contracts, pricing, and running a trade business.
 - **HMRC Self Assessment Guides** — Official HMRC guidance on tax returns, VAT registration, and Making Tax Digital.
 
